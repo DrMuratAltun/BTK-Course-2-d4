@@ -1,0 +1,3 @@
+Merhaba, Be TE KA Akademi Python ile İleri Düzey Makine Öğrenmesi Kursuna hoş geldiniz.
+Ben yapay zeka asistanınızım.
+Yapay zekâ ya da kısaca Ye Ze doğal zekâyı taklit eden sistemlere denir.
